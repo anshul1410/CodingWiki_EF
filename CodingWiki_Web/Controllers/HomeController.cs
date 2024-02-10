@@ -1,4 +1,4 @@
-﻿using CodingWiki_Web.Models;
+﻿using CodingWiki_Models.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
